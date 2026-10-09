@@ -9,3 +9,5 @@ even_list = return_even(original_list)
 st.write("horruay, we connected everythign")
 
 st.write("Hello")
+
+st.write(even_list)
